@@ -1,4 +1,4 @@
 <?php
 
 echo "hello";
-echo "hotel luna";
+echo "hotel del luna";
